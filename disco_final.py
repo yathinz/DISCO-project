@@ -49,7 +49,7 @@ f.close()
 #print(pref)
 
 
-f = open(r"OUTPUT.txt","w")
+f = open(r"disco output.txt","w")
 
 #creating bipartite graph
 B.add_nodes_from(p,bipartite=0)
