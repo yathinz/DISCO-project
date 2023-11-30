@@ -3,3 +3,5 @@ the first line must be a list of the CDC's offered and the second line must be a
 then a blank line 
 then professor number (starting from 0) followed by their X value followed by their course preferences seperated by spaces in each line for a given professor
 the output gives an error if an allotment cant be found and lists allotments one below the other seperated by "*****************" when they exist
+
+important: you need to download the networkX module on your python IDE for the code to be functional 
