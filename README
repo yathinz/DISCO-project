@@ -1,5 +1,5 @@
 for input
-the first line must be a list of the 6 CDC's offered and the second line must be a list of the 4 electives offered
+the first line must be a list of the CDC's offered and the second line must be a list of the electives offered, name of the course seperated by spaces
 then a blank line 
 then professor number (starting from 0) followed by their X value followed by their course preferences seperated by spaces in each line for a given professor
 the output gives an error if an allotment cant be found and lists allotments one below the other seperated by "*****************" when they exist
