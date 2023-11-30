@@ -1,3 +1,5 @@
 for input
 the first line must be a list of CDC's offered and the second line must be a list of electives offered
 then a blank line then professor number (starting from 0) followed by their X value followed by their course preferences seperated by spaces in each line for a given professor
+
+in the code, replace "input" with destination of data file and "output" with destination of output file
