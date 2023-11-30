@@ -15,7 +15,7 @@ links = {}
 
 
 
-with open(r"INPUT.txt") as f:
+with open(r"disco_data.txt") as f:
     C = f.readline().split()
     E = f.readline().split()
     N = 2 * len(C + E)
