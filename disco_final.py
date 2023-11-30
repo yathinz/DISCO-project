@@ -15,7 +15,7 @@ links = {}
 
 
 
-with open(r"C:\Users\yathi\Documents\disco\disco IP_1_just enough preferences.txt") as f:
+with open(r"INPUT.txt") as f:
     C = f.readline().split()
     E = f.readline().split()
     N = 2 * len(C + E)
@@ -49,7 +49,7 @@ f.close()
 #print(pref)
 
 
-f = open(r"C:\Users\yathi\Documents\disco\disco OP_1_all slots filled.txt","w")
+f = open(r"OUTPUT.txt","w")
 
 #creating bipartite graph
 B.add_nodes_from(p,bipartite=0)
