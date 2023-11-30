@@ -1,0 +1,13 @@
+a b c d e f 
+g h i j
+
+0 1.5 a h d b c e f g i j
+1 1.5 b c i a d e f g h j
+2 0.5 f a b c d e g h i j
+3 1.0 e g a b c d f h i j
+4 0.5 a b c d e f g h i j
+5 1.5 g h i j a b c d e f
+6 0.5 b a c d e f g h i j
+7 1.0 e f a b c d g h i j
+8 0.5 c a b d e f g h i j
+9 1.5 j d a b c e f g h i
